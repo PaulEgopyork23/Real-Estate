@@ -585,6 +585,10 @@ section{
 /* Responsiveness and @media Queries for screen-size(mobile phone)*/
 @media (max-width:600px) {
 
+body{
+max-width:100vw;
+overflow-x:hidden;
+}
     /* Header section */
     .hero-section {
         flex-direction: column;
