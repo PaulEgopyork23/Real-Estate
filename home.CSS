@@ -4,6 +4,9 @@
     box-sizing: border-box;
     /* outline: none; */
 }
+body{
+overflow-x:hidden;
+}
 .nav-link {
     font-weight: 700;
   }
